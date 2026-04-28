@@ -1,8 +1,8 @@
 // -------------------------------
 // API KEYS (INSERT YOURS HERE)
 // -------------------------------
-const OPENWEATHER_KEY = "";
-const UNSPLASH_KEY = "";
+const OPENWEATHER_KEY = "8a4d9ae7f37ab0203a3bc39452111252";
+const UNSPLASH_KEY = "Ngj9XOR3sQIHELd2fjMldEWN93i9VeYT79K9ZNEWqVc";
 
 // -------------------------------
 // MAIN WEATHER FUNCTION
